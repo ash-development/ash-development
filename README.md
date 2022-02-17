@@ -10,7 +10,7 @@ I usually work on the following stuff: </p>
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ash-development&theme=dracula&margin-w=15&margin-h=15&column=4" /></a></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,5 +83,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ash-development/ash-development/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2022 18:46:21 UTC
+ Last Updated on 17/02/2022 18:46:49 UTC
 <!--END_SECTION:waka-->
