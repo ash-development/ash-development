@@ -16,7 +16,7 @@ I usually work on the following stuff: </p>
 
 > 🏆 63 Contributions in the Year 2022
  > 
-> 📦 39.9 kB Used in GitHub's Storage 
+> 📦 39.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,5 +83,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ash-development/ash-development/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 18:51:07 UTC
+ Last Updated on 23/04/2022 18:49:30 UTC
 <!--END_SECTION:waka-->
