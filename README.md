@@ -10,11 +10,13 @@ I usually work on the following stuff: </p>
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ash-development&theme=dracula&margin-w=15&margin-h=15&column=4" /></a></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 64 Contributions in the Year 2022
+> 🏆 73 Contributions in the Year 2022
  > 
 > 📦 39.8 kB Used in GitHub's Storage 
  > 
@@ -27,22 +29,22 @@ I usually work on the following stuff: </p>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    37 commits     ██████████░░░░░░░░░░░░░░░   43.02% 
-🌆 Daytime    44 commits     ████████████░░░░░░░░░░░░░   51.16% 
+🌞 Morning    39 commits     ██████████░░░░░░░░░░░░░░░   41.05% 
+🌆 Daytime    51 commits     █████████████░░░░░░░░░░░░   53.68% 
 🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.81%
+🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
+Monday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    19 commits     █████░░░░░░░░░░░░░░░░░░░░   22.09% 
-Thursday     18 commits     █████░░░░░░░░░░░░░░░░░░░░   20.93% 
-Friday       31 commits     █████████░░░░░░░░░░░░░░░░   36.05% 
+Wednesday    21 commits     █████░░░░░░░░░░░░░░░░░░░░   22.11% 
+Thursday     25 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32% 
+Friday       31 commits     ████████░░░░░░░░░░░░░░░░░   32.63% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.81%
+Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
@@ -83,5 +85,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ash-development/ash-development/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:50:55 UTC
+ Last Updated on 07/05/2022 18:49:17 UTC
 <!--END_SECTION:waka-->
