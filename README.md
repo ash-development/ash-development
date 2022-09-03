@@ -12,7 +12,7 @@ I usually work on the following stuff: </p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,5 +85,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ash-development/ash-development/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 18:53:41 UTC
+ Last Updated on 03/09/2022 18:50:22 UTC
 <!--END_SECTION:waka-->
