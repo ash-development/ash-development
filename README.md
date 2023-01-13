@@ -13,64 +13,22 @@ I usually work on the following stuff: </p>
 </details>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 85 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 40.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 19 Private Repositories  
-
-
-<details>
- <summary>More Stats!</summary>
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    20 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
-🌆 Daytime    38 commits     █████████████░░░░░░░░░░░░   54.29% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-🌙 Night      11 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.29% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    24 commits     ████████░░░░░░░░░░░░░░░░░   34.29% 
-Thursday     25 commits     █████████░░░░░░░░░░░░░░░░   35.71% 
-Friday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       11 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
+ > 
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,6 +46,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ash-development/ash-development/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 18:51:17 UTC
+ Last Updated on 13/01/2023 18:43:39 UTC
 <!--END_SECTION:waka-->
 </details>
