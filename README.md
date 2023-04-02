@@ -13,7 +13,7 @@ I usually work on the following stuff: </p>
 </details>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,16 +56,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               9 mins              ███████████████████████░░   91.02 % 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sheet-bot                10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,6 +87,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ash-development/ash-development/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2023 18:38:40 UTC
+ Last Updated on 02/04/2023 18:38:45 UTC
 <!--END_SECTION:waka-->
 </details>
