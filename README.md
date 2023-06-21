@@ -13,7 +13,7 @@ I usually work on the following stuff: </p>
 </details>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,16 +56,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               22 mins             ███████████████████░░░░░░   76.77 % 
+JSON                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+GitIgnore file           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LFTbot                   26 mins             ███████████████████████░░   90.27 % 
+csv-rolebot              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,6 +88,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ash-development/ash-development/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2023 18:38:48 UTC
+ Last Updated on 21/06/2023 18:38:39 UTC
 <!--END_SECTION:waka-->
 </details>
