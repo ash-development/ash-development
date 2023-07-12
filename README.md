@@ -56,18 +56,16 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               49 mins             ███████████████████████░░   93.75 % 
-CSV/TSV                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mainBot                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,6 +85,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ash-development/ash-development/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2023 18:41:58 UTC
+ Last Updated on 12/07/2023 18:42:04 UTC
 <!--END_SECTION:waka-->
 </details>
