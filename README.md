@@ -13,13 +13,13 @@ I usually work on the following stuff: </p>
 </details>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 40.2 kB Used in GitHub's Storage 
+> 📦 40.3 kB Used in GitHub's Storage 
  > 
 > 🏆 42 Contributions in the Year 2023
  > 
@@ -56,16 +56,18 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               38 mins             ███████████████████████░░   90.46 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+CSV/TSV                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mainBot                  42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,6 +87,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ash-development/ash-development/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2023 18:38:34 UTC
+ Last Updated on 24/07/2023 18:40:19 UTC
 <!--END_SECTION:waka-->
 </details>
