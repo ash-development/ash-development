@@ -13,7 +13,7 @@ I usually work on the following stuff: </p>
 </details>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,18 +56,18 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               38 mins             ███████████████████████░░   90.46 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-CSV/TSV                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JavaScript               42 mins             █████████████████████░░░░   85.92 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+CSV/TSV                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-IntelliJ                 42 mins             █████████████████████████   100.00 % 
+IntelliJ                 49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mainBot                  42 mins             █████████████████████████   100.00 % 
+mainBot                  49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,6 +87,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ash-development/ash-development/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2023 18:38:33 UTC
+ Last Updated on 26/07/2023 18:38:28 UTC
 <!--END_SECTION:waka-->
 </details>
