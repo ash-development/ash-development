@@ -21,6 +21,8 @@ I usually work on the following stuff: </p>
 
 > 📦 40.4 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -83,6 +85,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ash-development/ash-development/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2024 18:38:18 UTC
+ Last Updated on 20/05/2024 18:39:54 UTC
 <!--END_SECTION:waka-->
 </details>
