@@ -13,6 +13,8 @@ I usually work on the following stuff: </p>
 </details>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -25,6 +27,45 @@ I usually work on the following stuff: </p>
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                67 commits          ████████████░░░░░░░░░░░░░   47.86 % 
+🌆 Daytime                49 commits          █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌃 Evening                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   36 commits          ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Wednesday                28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Thursday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Friday                   39 commits          ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -42,6 +83,6 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ash-development/ash-development/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:39:46 UTC
+ Last Updated on 16/06/2024 18:40:15 UTC
 <!--END_SECTION:waka-->
 </details>
