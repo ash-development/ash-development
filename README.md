@@ -1,8 +1,8 @@
 <h1 align="center">hewo 👋, im ash :3</h1>
 <h3 align="center">welcome to my page o/</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ash-development" alt="ash's Profile Views" /> <img src="http://img.shields.io/badge/Code%20Time-7%20hrs%2048%20mins-blue" alt="ash's code time" /></p>
-<p>You might know me from various discords!
-I usually work on the following stuff: </p>
+<!-- <p>You might know me from various discords!
+I usually work on the following stuff: </p> -->
 
 <!-- [htmljourney](https://github.com/ash-development/htmljourney/) - My project about learning the ins and outs of web development. Blogged by me on [DEV.to](https://dev.to/killua/series/10106).An aspiring developer -->
 
