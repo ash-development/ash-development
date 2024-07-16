@@ -6,6 +6,7 @@ I usually work on the following stuff: </p>
 
 <!-- [htmljourney](https://github.com/ash-development/htmljourney/) - My project about learning the ins and outs of web development. Blogged by me on [DEV.to](https://dev.to/killua/series/10106).An aspiring developer -->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2048%20mins-blue)
 
 <details>
  <summary>Stats</summary><br>
@@ -16,7 +17,6 @@ I usually work on the following stuff: </p>
 <details>
  <summary>Waka Stats</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2048%20mins-blue)
 
 **🐱 My GitHub Data** 
 
