@@ -15,8 +15,8 @@ I usually work on the following stuff: </p> -->
 <details>
  <summary>Waka Stats</summary>
 <!--START_SECTION:waka-->
+ 
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
