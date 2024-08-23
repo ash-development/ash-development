@@ -1,5 +1,6 @@
 <h1 align="center">hewo 👋, im ash :3</h1>
 <h3 align="center">welcome to my page o/</h3>
+<h4 align="center">link to visit my <a href="https://gock.fans">personal git forge</a> </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ash-development" alt="ash's Profile Views" />
 <br /><br />
 <p align="center">
